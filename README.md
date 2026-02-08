@@ -95,7 +95,7 @@ http://localhost:8000
 
 For access from other devices on the same network:
 
-http://<server-ip>:8000
+http://server-ip:8000
 
 Application Routes
 Route	Method	Description
