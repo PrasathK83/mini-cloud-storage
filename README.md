@@ -45,9 +45,13 @@ Storage: Local filesystem (storage/ directory)
 
 Project Structure
 mini-cloud-storage/
+
 │
+
 ├── app.py          Main Flask application
+
 ├── storage/        Uploaded files (auto-created)
+
 └── README.md       Project documentation
 
 How It Works
